@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F74F1F&width=435&lines=Hello+World+%F0%9F%91%8B;Welcome+to+my+GitHub!!;I'm+Anjali+Dwivedi)](https://git.io/typing-svg)
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjNndoOHliYjRrbTBrNGpycDg2bHp6czF3ZTB1OGp4NWJubzB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" alt="side Image" align="right" width="275" height="auto" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjNndoOHliYjRrbTBrNGpycDg2bHp6czF3ZTB1OGp4NWJubzB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kje0rsDyVEMEzQLPol/giphy.gif" alt="side Image" align="right" width="270" height="auto" />
 ### 🚀 About Me
 - 👩‍💻 I am a coding enthusiast.
 - 👩‍🎓 I'm an undergraduate at BIET Jhansi pursuing Btech degree.
