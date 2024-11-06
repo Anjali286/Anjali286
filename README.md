@@ -44,7 +44,7 @@
 &nbsp; <a href="https://x.com/adwivediii" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="50" /></a>  
 </p>
 
-### GitHub Streak
+### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anjali286&theme=radical)](https://git.io/streak-stats)
 
 
