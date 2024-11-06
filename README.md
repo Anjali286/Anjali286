@@ -48,7 +48,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anjali286&theme=radical)](https://git.io/streak-stats)
 
 
-### Total Visits 👀
+### 👀 Total Visits
 ![Visitor Count](https://profile-counter.glitch.me/Anjali286/count.svg)
 
 <!---
