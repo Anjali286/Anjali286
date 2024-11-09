@@ -30,7 +30,7 @@
 ### Others
 <a href="https://github.com/Anjali286">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=mysql,postman,github,vscode,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=mysql,postman,docker,github,vscode,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
